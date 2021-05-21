@@ -525,7 +525,7 @@
                                 <div class="member_detail_box">
                                     <div class="member_arrow"><i class="fa fa-caret-down"></i></div>
                                     <h5>Maisha Smith</h5>
-                                    <h6>Head of Design</h6>
+                                    <h6>Head o Design</h6>
                                     <a href="callto:+0124547986"><i class="fa fa-phone"></i> +0124 547 986</a>
                                     <ul>
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
